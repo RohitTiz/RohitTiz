@@ -3,7 +3,13 @@
 <h3 align="center">Creative Developer | Front-End Engineer | UI/UX Designer</h3>
 
 <!-- JONATHAN GIF -->
-![My GIF](j1.gif)
+<div align="center">
+  <img src="j1.gif" alt="Welcome GIF" width="300" />
+
+  <h3>Hi, I'm <strong>Rohit Tiwari</strong> 👋</h3>
+  <em>Engineer by Degree, Artist by Soul, Developer by Passion</em>
+</div>
+
 
 <!-- SHORT BIO -->
 <p align="center">
