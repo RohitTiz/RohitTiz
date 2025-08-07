@@ -90,9 +90,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="rohittiwari06052004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="mailto:rohittiwari06052004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
   <div align="center">
   <a href="https://www.linkedin.com/in/rohit-tiwari-8450b8286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
