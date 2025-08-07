@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Rohit Tiwari</h1>
 <h3 align="center">Creative Developer | Front-End Engineer | UI/UX Designer</h3>
 
 <!-- JONATHAN GIF -->
