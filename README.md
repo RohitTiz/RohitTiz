@@ -3,9 +3,7 @@
 <h3 align="center">Creative Developer | Front-End Engineer | UI/UX Designer</h3>
 
 <!-- JONATHAN GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnohtP3D5nVd8pq/giphy.gif" width="250" alt="Jonathan Byers Stranger Things GIF" />
-</p>
+![My GIF](j1.gif)
 
 <!-- SHORT BIO -->
 <p align="center">
