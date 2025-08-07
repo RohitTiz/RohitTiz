@@ -90,10 +90,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:youremail@gmail.com">
+  <a href="rohittiwari06052004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="www.linkedin.com/in/rohit-tiwari-8450b8286">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
