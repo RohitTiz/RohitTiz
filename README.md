@@ -2,14 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rohit Tiwari</h1>
 <h3 align="center">Creative Developer | Front-End Engineer | UI/UX Designer</h3>
 
-<!-- JONATHAN GIF -->
+<!-- GIF -->
 <div align="center">
   <img src="j1.gif" alt="Welcome GIF" width="300" />
-
   <h3>Hi, I'm <strong>Rohit Tiwari</strong> 👋</h3>
   <em>Engineer by Degree, Artist by Soul, Developer by Passion</em>
 </div>
-
 
 <!-- SHORT BIO -->
 <p align="center">
@@ -71,6 +69,14 @@
 
 ---
 
+## 💼 Featured Project
+
+🔗 **Live Demo:** [animated-crisp-88f5c3.netlify.app](https://animated-crisp-88f5c3.netlify.app/)
+
+> ⚙️ Built using React, Tailwind CSS, and GSAP
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
@@ -85,25 +91,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<p align="center">
+  📆 <strong>149 contributions</strong> in the last year!
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="mailto:rohittiwari06052004@gmail.com">
+<div align="center">
+
+<a href="mailto:rohittiwari06052004@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/rohit-tiwari-8450b8286" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+&nbsp;
 
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/rohit-tiwari-8450b8286" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+</div>
 
 ---
 
